@@ -1,0 +1,2 @@
+# fontsawesome
+speed up fontsawesome
